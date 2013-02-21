@@ -1,4 +1,0 @@
-RollPHP
-=======
-
-RollPHP Frameword
